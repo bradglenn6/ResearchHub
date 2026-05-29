@@ -1,0 +1,6 @@
+{
+  "name": "Research AI",
+  "description": "Saves, organizes, and validates research papers using AI-powered citations, summarization, and plagiarism checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
